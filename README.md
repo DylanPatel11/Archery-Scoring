@@ -1,4 +1,4 @@
-# Archery Scoring idea
+# Archery Scoring idea:
 
 ## Overview
 
