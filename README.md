@@ -1,6 +1,7 @@
 # Archery Scoring idea:
 
-## Overview
+## Contents
+* [Overview](https://github.com/DylanPatel11/Archery-Scoring/blob/main/README.md#overview)
 * [My reasoning to create this project](https://github.com/DylanPatel11/Archery-Scoring/blob/main/README.md#my-reasoning-to-create-this-project)
 * [How I expected the project to go](https://github.com/DylanPatel11/Archery-Scoring/blob/main/README.md#how-i-expected-the-project-to-go)
 * [What went well](https://github.com/DylanPatel11/Archery-Scoring/blob/main/README.md#what-went-well)
@@ -9,7 +10,7 @@
 * [The project](https://github.com/DylanPatel11/Archery-Scoring/blob/main/README.md#the-project)
 * [External documentation](https://github.com/DylanPatel11/Archery-Scoring/blob/main/README.md#external-documentation)
 
-
+## Overview
 
 ## My reasoning to create this project
 
